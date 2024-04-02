@@ -1,0 +1,15 @@
+{
+    "name": "phil/pdo_composer",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "B4rka",
+            "email": "p.e.dejonghe@gmail.com"
+        }
+    ],
+    "require": {}
+}
